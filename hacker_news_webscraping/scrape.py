@@ -24,4 +24,5 @@ def create_custom_hn(links, votes):
 
     return sort_stories_by_votes(hn)
 
-pprint.pprint(create_custom_hn(links, subtext))
+if __name__=='__main__':
+    pprint.pprint(create_custom_hn(links, subtext))

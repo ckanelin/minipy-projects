@@ -1,6 +1,6 @@
 # minipy-projects: A compilation of mini python projects
 
-## 1. password_checker
+## 1. password_checker :closed_lock_with_key:
 This script allows the user to input arguments through the command line.  
 The application will then print out the number of times each password has been leaked.  
 E.g. python3 password_checker.py apple orange banana  
@@ -11,7 +11,7 @@ E.g. python3 password_checker.py apple orange banana
 - SHA-1 Hash Function
 - K-Anonymity
 
-## 2. tweetypy_cl
+## 2. tweetypy_cl :ghost:
 This script allows the user to input one input argument through the command line as a topic for the list of tweets that will be retrieved.  
 The pig latin version of the tweet will then be printed into the terminal.  
 E.g. python3 tweetypy_cl.py cats
@@ -21,7 +21,7 @@ E.g. python3 tweetypy_cl.py cats
 - Twitter API
 - Secure key storage through .env
 
-## 3. hacker_new_webscraping
+## 3. hacker_new_webscraping :page_with_curl:
 This script will print all posts that have more than 100 votes from the first page of Hacker News.
 https://news.ycombinator.com/news?p=1
 ### Main Concepts
